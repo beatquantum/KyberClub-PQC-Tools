@@ -18,6 +18,9 @@ Kyber Club provides user-friendly tools to experiment with KEM operations for re
 - **Encryption (Encapsulation)**: Securely encapsulate shared secrets using a recipient’s public key. Try [ML-KEM encapsulation](https://kyber.club/fips203-encrypt) or [FrodoKEM encapsulation](https://kyber.club/frodokem-encrypt).
 - **Decryption (Decapsulation)**: Recover secrets with a private key. Use [ML-KEM decapsulation](https://kyber.club/fips203-decrypt) or [FrodoKEM decapsulation](https://kyber.club/frodokem-decrypt).
 
+## API
+See ml-kem-sample.py (./ml-kem-sample.py) for API usage.”
+
 ---
 
 *Contributed by Santosh Pandit (@beatquantum). For issues or suggestions, open a GitHub issue or visit [Kyber Club’s contact page](https://kyber.club/contact).*
